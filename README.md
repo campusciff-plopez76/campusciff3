@@ -1,2 +1,2 @@
 # campusciff3
-repo para conmpartir con administradores
+repo para conmpartir con los equipos
